@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+wheels/
+*.whl
+*.manifest
+*.spec
+*.dist-info
+
+# PyInstaller
+/dist
+/build
+/.eggs
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+*.log
+
+# Translations
+*.mo
+
+# Environments
+.env
+.venv
+env
+venv
+ENV
+tmpenv
+tmp*
+env.bak
+venv.bak
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS generated files #
+.DS_Store
+Thumbs.db
+
+# Project-specific ignores
+results.db
+results/
+visualizations/
+config.json
+proxy-reference
+.plandex-v2
+plan.md
+tasks.md

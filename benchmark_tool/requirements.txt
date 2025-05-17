@@ -1,0 +1,5 @@
+unittest-xml-reporting
+httpx
+jinja2
+uvicorn
+fastapi
